@@ -60,6 +60,7 @@ this examination.
 - The final version of each Python source code file must be in your GitHub repository by the due date.
 - You may run each of the five Python programs on your laptop by using the `python` command.
 - You cannot run `gatorgrade` on your laptop due to the encrypted `gatograde.yml` file.
+- If you modify any restricted parts of the source code you are responsible for making any fixes.
 - The score for your examination is reported when a build takes place in GitHub Actions.
 - Unless you already made special arrangements with the instructor, no late work will be accepted.
 - The course instructor reserves the right to modify the grade reported through GitHub Actions.
