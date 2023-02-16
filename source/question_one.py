@@ -77,9 +77,9 @@ def question_one_b():
 # The function compute_summation should:
 # --> Accept as input an int value called maximum
 # --> Produce as output an int that is the summation
-# of all the values from 1 to the maximum
+# of all the values from 1 to the maximum-1
 # --> For instance, if the function receives 5 as
-# input it would perform the computation 1+2+3+4+5 and
+# input it would perform the computation 1+2+3+4 and
 # return the int value of 10 as output.
 
 
