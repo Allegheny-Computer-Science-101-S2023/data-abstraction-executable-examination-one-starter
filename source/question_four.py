@@ -34,7 +34,6 @@ def question_four_a():
     question_four_output_a = question_four_output_a + space + str(compute_remainder(10, 3))
     return question_four_output_a
 
-
 # }}}
 
 # TODO: Question 4b. {{{
