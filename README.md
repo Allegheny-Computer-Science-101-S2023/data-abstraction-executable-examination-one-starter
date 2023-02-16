@@ -15,8 +15,8 @@ If you are a student completing this executable examination as part of a class
 at Allegheny College, you will need to modify the source code according to the
 instructions inside of the five Python source code files in the `source/`
 directory. If you have questions about this examination, please see the course
-instructor during the examination time period. You must read and carefully all
-of the instructions in this file before starting the executable examination.
+instructor during the examination time period. You should read all of the
+instructions in this file before starting the executable examination.
 
 ## Add Your Name Here
 
