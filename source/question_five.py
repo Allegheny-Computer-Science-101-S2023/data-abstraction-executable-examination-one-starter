@@ -10,10 +10,8 @@
 # The function compute_cube should:
 # --> Accept as input one int value called input_one
 # --> Using any appropriate approach compute and return the cube of that number
-# --> For instance, if value_one is equal to 10 and value_two is
-#     equal to 2 then this function would return the remainder of 0
-# --> Alternatively, if value_one is equal to 10 and value_two is
-#     equal to 3 then this function would return the remainder of 1
+# --> For instance, if input_one is equal to 1 then this function would return 1
+# --> For instance, if input_one is equal to 2 then this function would return 8
 
 
 def compute_cube(input_one: int) -> int:
