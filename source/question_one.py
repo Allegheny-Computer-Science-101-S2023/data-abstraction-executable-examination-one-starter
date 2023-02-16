@@ -1,6 +1,6 @@
 """Question one for an executable examination."""
 
-# Question 1a. {{{
+# TODO: Question 1a. {{{
 
 # Instructions:
 # Fix the defect(s) in the following function
@@ -33,7 +33,7 @@ def question_one_a():
 
 # }}}
 
-# Question 1b. {{{
+# TODO: Question 1b. {{{
 
 # Instructions:
 # Fix the defect(s) in the following function
@@ -68,7 +68,7 @@ def question_one_b():
 
 # }}}
 
-# Question 1c. {{{
+# TODO: Question 1c. {{{
 
 # Instructions:
 # Implement a function to produce the requested output
