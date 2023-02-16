@@ -47,7 +47,7 @@ def question_one_a():
 
 
 def compute_square(value: int) -> int:
-    """Square the square of a number through iteration with a while loop."""
+    """Compute the square of a number through iteration with a while loop."""
     num_iterations = 1
     answer = 0
     while num_iterations < value:
